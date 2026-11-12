@@ -1,4 +1,4 @@
-# Structure makes quantum circuits trainable
+# Structure makes quantum circuits trainable [![DOI](https://zenodo.org/badge/1455684352.svg)](https://doi.org/10.5281/zenodo.24178165)
 
 Code and data for the paper *Structure makes quantum circuits trainable* by Wenbo Xie, Ananth Grama and Wojciech Szpankowski (Purdue University).
 
